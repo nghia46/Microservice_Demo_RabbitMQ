@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yfXgnnafpN2MfhypnHS+cHSwBjyG9P5n1cL2pwDaCCMZMlWvGY9FRlrs/wKz6oQ+Li/wPEnvETWEHxRMACVVMw==",
+  "dgSpecHash": "LaQ2tIQ3eqnh0ovbniVM+Y0MGJ9Ai8o62cyzDVIzvdD0+NDfGK+G3WfBz3zWH2Kl6Vms6RCklxEJgDFKoPX35g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\InventoryService\\Model\\Model.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\InventoryService\\Model\\Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

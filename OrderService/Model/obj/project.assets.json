@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\OrderService\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\OrderService\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\OrderService\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\OrderService\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\OrderService\\Model\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\OrderService\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Apps\\CodeApp\\IDE\\Visual Studio\\Shared\\NuGetPackages"

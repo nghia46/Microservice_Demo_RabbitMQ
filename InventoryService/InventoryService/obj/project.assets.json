@@ -1577,11 +1577,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\InventoryService\\InventoryService\\InventoryService.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\InventoryService\\InventoryService\\InventoryService.csproj",
       "projectName": "InventoryService",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\InventoryService\\InventoryService\\InventoryService.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\InventoryService\\InventoryService\\InventoryService.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\InventoryService\\InventoryService\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\InventoryService\\InventoryService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Apps\\CodeApp\\IDE\\Visual Studio\\Shared\\NuGetPackages"
@@ -1603,8 +1603,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\InventoryService\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\Microservice_RESTful_Comunicate\\InventoryService\\Model\\Model.csproj"
+            "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\InventoryService\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\Demo Microservice\\InventoryService\\Model\\Model.csproj"
             }
           }
         }
